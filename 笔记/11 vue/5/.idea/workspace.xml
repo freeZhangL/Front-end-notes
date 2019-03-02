@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07e9c4b8-d08c-4b1b-9248-6fec23b72024" name="默认更改列表" comment="" />
+    <list default="true" id="07e9c4b8-d08c-4b1b-9248-6fec23b72024" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webpack-cli/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack-study/node_modules/webpack-cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/webpack-study/node_modules/webpack-cli/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack-study/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/webpack-study/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack-study/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/webpack-study/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7/02.vue-cms" beforeDir="false" afterPath="$PROJECT_DIR$/../7/02.vue-cms" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8/vue-cms" beforeDir="false" afterPath="$PROJECT_DIR$/../8/vue-cms" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day10/代码/vue-cms" beforeDir="false" afterPath="$PROJECT_DIR$/../day10/代码/vue-cms" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -46,6 +56,16 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="70" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="793953788">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -112,8 +132,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webpack-study/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+            <state relative-caret-position="25">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
               <folding>
                 <element signature="e#199#223#0" expanded="true" />
               </folding>
@@ -382,9 +402,9 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="724" />
-    <option name="y" value="130" />
-    <option name="width" value="1440" />
+    <option name="x" value="1400" />
+    <option name="y" value="208" />
+    <option name="width" value="1636" />
     <option name="height" value="1238" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -395,6 +415,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -417,7 +438,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -452,14 +472,17 @@
       <workItem from="1551331534153" duration="7399000" />
       <workItem from="1551372409871" duration="45000" />
       <workItem from="1551376310535" duration="599000" />
+      <workItem from="1551377589433" duration="2424000" />
+      <workItem from="1551403449032" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8043000" />
+    <option name="totallyTimeSpent" value="11066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="783" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32856005" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -473,7 +496,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.35023043" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.6267281" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="调试" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -552,8 +575,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack-study/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+        <state relative-caret-position="25">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
           <folding>
             <element signature="e#199#223#0" expanded="true" />
           </folding>
